@@ -1,6 +1,8 @@
-# Basic Tutorial for [FastAPI on RealPython](https://realpython.com/fastapi-python-web-apis/)
+# Basic Tutorial for Learning FastAPI
 
-URL to the tutorial: https://realpython.com/fastapi-python-web-apis/
+
+Repository for learning the basic of FastAPI from the [tutorial on RealPython](https://realpython.com/fastapi-python-web-apis/) by FastAPI's creator [tiangolo](https://github.com/tiangolo)
+
 
 ## Try It Out
 
@@ -42,14 +44,14 @@ URL to the tutorial: https://realpython.com/fastapi-python-web-apis/
 
 ### 3. Spin up FastAPI
 
-- For runnning the `First Steps` part in the [tutorial](https://realpython.com/fastapi-python-web-apis/#first-steps):
+- For runnning the [`First Steps`](https://realpython.com/fastapi-python-web-apis/#first-steps) part from the tutorial:
 
       uvicorn main_firststeps:app --reload
 
-- For runnning the `Path Parameters: Get an Item by ID` part in the [tutorial](https://realpython.com/fastapi-python-web-apis/#path-parameters-get-an-item-by-id):
+- For runnning the [`Path Parameters: Get an Item by ID`](https://realpython.com/fastapi-python-web-apis/#path-parameters-get-an-item-by-id) section from the tutorial:
 
       uvicorn main_pathparams:app --reload
 
-- For runnning the `Request Body: Receiving JSON Data` part in the [tutorial](https://realpython.com/fastapi-python-web-apis/#request-body-receiving-json-data):
+- For runnning the [`Request Body: Receiving JSON Data`](https://realpython.com/fastapi-python-web-apis/#request-body-receiving-json-data) part from the tutorial:
 
       uvicorn main_request:app --reload
