@@ -1,7 +1,7 @@
-# Basic Tutorial for Learning FastAPI
+# Using FastAPI to Build Python Web APIs - Tutorial Blog from `RealPython`
 
 
-Repository for learning the basic of FastAPI from the [tutorial on RealPython](https://realpython.com/fastapi-python-web-apis/) by FastAPI's creator [tiangolo](https://github.com/tiangolo)
+Repository for the [Using FastAPI to Build Python Web APIs](https://realpython.com/fastapi-python-web-apis/) tutorial blog on RealPython written by FastAPI's creator [tiangolo](https://github.com/tiangolo)
 
 
 ## Try It Out
